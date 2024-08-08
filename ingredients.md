@@ -4,8 +4,10 @@ cheese
 musterd
 space jam
 carrot
-american cheese
-mexican cheese
-italian cheese
+pasta
+egg
+fried egg
+poached egg
+chicken or the egg
 pulled pork
 bottom bun
