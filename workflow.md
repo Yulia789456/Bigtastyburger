@@ -1,1 +1,1 @@
-
+To prevent merge conflicts in the first place, we can do small but frequent commits instead of large occasional ones in order to resolve conflicts if they appear. Additionally, we can do pulls more often to keep updated and synchronised so that the potential for conflicts will be minimised.
